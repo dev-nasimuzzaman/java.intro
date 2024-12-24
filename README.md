@@ -31,7 +31,7 @@ After completing the course, I earned a Udemy certificate of completion. The jou
 ---
 
 # Contributions
-Feel free to explore the codebase. If you have suggestions or improvements, open an issue or submit a pull request. Collaboration is welcome!
+Feel free to explore the codebase. Open an issue or submit a pull request if you have suggestions or improvements. Collaboration is welcome!
 Happy Coding! 😊
 
 
