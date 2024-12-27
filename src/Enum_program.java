@@ -16,14 +16,19 @@ ________________________________________________________________________________
 */
 
 //Enum Creation
+public class Enum_program {
 enum Level{
     LOW,
     MEDIUM,
     HIGH
 }
-public class Enum_program {
     public static void main(String[] args){
         Level myVar = Level.MEDIUM;
+        Level myVar1 = Level.HIGH;
+        Level myVar2 = Level.LOW;
+
         System.out.println(myVar);
+        System.out.println(myVar1);
+        System.out.println(myVar2);
     }
 }
