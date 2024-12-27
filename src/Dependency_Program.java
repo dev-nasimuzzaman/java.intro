@@ -33,5 +33,10 @@ class MessageProcessor{
 public class Dependency_Program {
     public static void main(String[] args){
         //create an instance of a message service - dependency
+        MessageService emailService = new EmailService();
+        //injecting the dependency into MessageProcessor
+        MessageProcessor messageProcessor = new MessageProcessor(emailService);
+        //performing message action or processing
+        messageProcessor.processMessage();
     }
 }
