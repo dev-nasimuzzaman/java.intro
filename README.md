@@ -1,11 +1,11 @@
-# Advanced Java Practice Codes
+# Advanced Java Practice Code
 
 This repository contains all the code examples and projects I developed while learning from the **"Mastering Advanced Java with Object-Oriented Programming
 "** course. The course focuses on mastering advanced Java programming concepts, including Object-Oriented Programming (OOP), Dependency Injection (DI), and Package Management.
 
 ---
 
-# Course Overview
+# Overview
 The course offers in-depth knowledge and practical experience in:
 - Advanced Object-Oriented Programming (OOP) concepts
 - Dependency Injection as a design pattern for maintainable code
@@ -22,11 +22,6 @@ DI Implementation: Used Dependency Injection for loosely coupled and testable sy
 Java Design Patterns: Applied Singleton, Factory, and Observer patterns in real-world scenarios.
 Modular Code: Created and organized Java packages for maintainability.
 Secure Coding: Used access modifiers and best practices to write secure Java code.
-
----
-
-# Course Certificate
-After completing the course, I earned a Udemy certificate of completion. The journey has been enriching, and I look forward to applying these advanced Java concepts in real-world applications.
 
 ---
 
