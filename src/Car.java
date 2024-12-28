@@ -4,7 +4,7 @@ Created On: [December 24, 2024]
 GitHub: [https://github.com/dev-nasimuzzaman]
 
 Description:
-[Class with attributes and a static method]
+[-----]
 
 Modification History:
 Date           Author            Description

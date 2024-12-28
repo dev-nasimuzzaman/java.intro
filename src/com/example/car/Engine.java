@@ -4,7 +4,9 @@ Created On: [December 27, 2024]
 GitHub: [https://github.com/dev-nasimuzzaman]
 
 Description:
-[-----------------------------------]
+[This program defines an Engine class in the com.example.car package. The class has a private instance variable horsePower,
+which represents the engine's horsepower. The constructor initializes this variable when creating an Engine object.
+The start method is used to print the horsepower of the engine to the console.]
 
 Modification History:
 Date           Author            Description
