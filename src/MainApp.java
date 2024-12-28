@@ -4,7 +4,8 @@ Created On: [December 27, 2024]
 GitHub: [https://github.com/dev-nasimuzzaman]
 
 Description:
-[---------------------------]
+[This program demonstrates the use of packages and classes in Java to organize and manage code. It highlights object creation and method invocation
+from different classes within the package structure.]
 
 Modification History:
 Date           Author            Description

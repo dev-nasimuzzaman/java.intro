@@ -1,3 +1,19 @@
+/*______________________________________________________________________________________________________________________
+Author: [Md Nasimuzzaman]
+Created On: [December 26, 2024]
+GitHub: [https://github.com/dev-nasimuzzaman]
+
+Description:
+[Encapsulation in Java refers to integrating data (variables) and code (methods) into a single unit. In encapsulation,
+a class's variables are hidden from other classes and can only be accessed by the methods of the class in which they are found.]
+
+Modification History:
+Date           Author            Description
+------------   ---------------   ---------------------------------------------------------------------------------------
+[12/24/2024]   Md Nasimuzzaman   Initial version of the code.
+[12/28/2024]   Md Nasimuzzaman   Added the modification history.
+________________________________________________________________________________________________________________________
+*/
 public class Encapsulation {
     //private attribute
     private String name;

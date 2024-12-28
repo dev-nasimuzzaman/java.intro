@@ -1,3 +1,18 @@
+/*______________________________________________________________________________________________________________________
+Author: [Md Nasimuzzaman]
+Created On: [December 24, 2024]
+GitHub: [https://github.com/dev-nasimuzzaman]
+
+Description:
+[Class with attributes and a static method]
+
+Modification History:
+Date           Author            Description
+------------   ---------------   ---------------------------------------------------------------------------------------
+[12/24/2024]   Md Nasimuzzaman   Initial version of the code.
+[12/28/2024]   Md Nasimuzzaman   Added the modification history.
+________________________________________________________________________________________________________________________
+*/
 import javax.swing.plaf.synth.SynthSpinnerUI;
 
 public class Car {
