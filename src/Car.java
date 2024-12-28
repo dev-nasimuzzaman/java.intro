@@ -4,7 +4,10 @@ Created On: [December 24, 2024]
 GitHub: [https://github.com/dev-nasimuzzaman]
 
 Description:
-[-----]
+[The Car class represents a car with several properties: x (quantity), y (quality rating), age (consumer's age), name,
+model, fname (first name), and lname (last name). The class includes a static method myMethod that prints a greeting
+message when called. The main method creates an instance of the Car class, passes arguments to the myMethod, and then
+prints out the details of a car, including the car's name, model, consumer's age, quantity, and quality rating.]
 
 Modification History:
 Date           Author            Description
