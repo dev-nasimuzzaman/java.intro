@@ -18,7 +18,7 @@ The course offers in-depth knowledge and practical experience in:
 
 # Key Learnings
 OOP Principles: Implemented polymorphism, inheritance, and encapsulation effectively.
-DI Implementation: Used Dependency Injection for loosely coupled and testable systems.
+DI Implementation: Dependency Injection was used for loosely coupled and testable systems.
 Java Design Patterns: Applied Singleton, Factory, and Observer patterns in real-world scenarios.
 Modular Code: Created and organized Java packages for maintainability.
 Secure Coding: Used access modifiers and best practices to write secure Java code.
